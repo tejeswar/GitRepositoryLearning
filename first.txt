@@ -2,6 +2,7 @@ This is the first file.
 
 I have added this code directly in the gitrepo to make a conflict in the local machine.
 Tapnesh conflict
+akhu merged
 tej tring to resolve the conflict...
 tej created conflict to understand
 Rakesh inserted directly
