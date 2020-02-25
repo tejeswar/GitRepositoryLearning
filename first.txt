@@ -1,6 +1,7 @@
 This is the first file.
 
 I have added this code directly in the gitrepo to make a conflict in the local machine.
+Rakesh inserted directly
 It contains Appls...
 fourth line got added
 fifth line got added.
